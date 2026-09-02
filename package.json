@@ -1,0 +1,30 @@
+{
+  "name": "agentic-ai-crash-course",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "mastra dev",
+    "build": "mastra build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulkallur/agentic-ai-crash-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulkallur/agentic-ai-crash-course/issues"
+  },
+  "homepage": "https://github.com/rahulkallur/agentic-ai-crash-course#readme",
+  "devDependencies": {
+    "@types/node": "^26.4.1",
+    "mastra": "^1.27.2",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "@mastra/core": "^1.63.2",
+    "zod": "^4.5.4"
+  }
+}
